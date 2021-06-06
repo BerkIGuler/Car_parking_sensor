@@ -2,9 +2,9 @@
 A mini-project for microprocessors course
 
   
-** Written on ARM mbed online compiler
-** Board: NXP KL25Z 
-** Peripherals used are:
+* Written on ARM mbed online compiler
+* Board: NXP KL25Z 
+* Peripherals used are:
   * HC-SR04 Ultrasonic Distance Sensor
   * LEDs
   * On-board RGB led of KL25Z
